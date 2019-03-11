@@ -1,0 +1,8 @@
+10-get_code_and_data.R
+*~
+packrat.R
+packrat/bundles/
+.Rhistory
+.Rprofile
+
+packrat/lib*/
