@@ -31,7 +31,8 @@ Instructions:
 3. The code will generate all tex tables and pdfs of plots that are in
    the paper. Below find the program associated with each/table
    plot. 
-
+4. The output of the resulting code ran on `2019-03-10` is in the
+   branch [run_code_2019_03_10](https://github.com/ChandlerLutz/LocalLaborMarketsInCanadaAndTheUnitedStates/tree/run_code_2019_03_10)
 
 Files to Generate Tex Files and Plots
 -----
